@@ -1,0 +1,101 @@
+C:\Users\shikn\source\repos\SecondVersion\bin\Debug\SecondVersion.exe.config
+C:\Users\shikn\source\repos\SecondVersion\bin\Debug\SecondVersion.exe
+C:\Users\shikn\source\repos\SecondVersion\bin\Debug\SecondVersion.pdb
+C:\Users\shikn\source\repos\SecondVersion\obj\Debug\SecondVersion.csproj.AssemblyReference.cache
+C:\Users\shikn\source\repos\SecondVersion\obj\Debug\SecondVersion.csproj.SuggestedBindingRedirects.cache
+C:\Users\shikn\source\repos\SecondVersion\obj\Debug\SecondVersion.MainForm.resources
+C:\Users\shikn\source\repos\SecondVersion\obj\Debug\SecondVersion.Properties.Resources.resources
+C:\Users\shikn\source\repos\SecondVersion\obj\Debug\SecondVersion.csproj.GenerateResource.cache
+C:\Users\shikn\source\repos\SecondVersion\obj\Debug\SecondVersion.csproj.CoreCompileInputs.cache
+C:\Users\shikn\source\repos\SecondVersion\obj\Debug\SecondVersion.exe
+C:\Users\shikn\source\repos\SecondVersion\obj\Debug\SecondVersion.pdb
+C:\Users\shikn\source\repos\SecondVersion\obj\Debug\SecondVersion.InformationForm.resources
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\bin\Debug\SecondVersion.exe.config
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\bin\Debug\SecondVersion.exe
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\bin\Debug\SecondVersion.pdb
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\obj\Debug\SecondVersion.csprojAssemblyReference.cache
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\obj\Debug\SecondVersion.InformationForm.resources
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\obj\Debug\SecondVersion.MainForm.resources
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\obj\Debug\SecondVersion.Properties.Resources.resources
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\obj\Debug\SecondVersion.csproj.GenerateResource.cache
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\obj\Debug\SecondVersion.csproj.CoreCompileInputs.cache
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\obj\Debug\SecondVersion.exe
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\obj\Debug\SecondVersion.pdb
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\bin\Debug\SecondVersion.exe.config
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\bin\Debug\SecondVersion.exe
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\bin\Debug\SecondVersion.pdb
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\obj\Debug\SecondVersion.csprojAssemblyReference.cache
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\obj\Debug\SecondVersion.InformationForm.resources
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\obj\Debug\SecondVersion.MainForm.resources
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\obj\Debug\SecondVersion.Properties.Resources.resources
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\obj\Debug\SecondVersion.csproj.GenerateResource.cache
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\obj\Debug\SecondVersion.csproj.CoreCompileInputs.cache
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\obj\Debug\SecondVersion.exe
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion (1)\obj\Debug\SecondVersion.pdb
+C:\Users\shikn\Desktop\SecondVersion\obj\Debug\SecondVersion.csproj.AssemblyReference.cache
+C:\Users\shikn\Desktop\SecondVersion\obj\Debug\SecondVersion.csproj.SuggestedBindingRedirects.cache
+C:\Users\shikn\Desktop\SecondVersion\obj\Debug\SecondVersion.InformationForm.resources
+C:\Users\shikn\Desktop\SecondVersion\obj\Debug\SecondVersion.MainForm.resources
+C:\Users\shikn\Desktop\SecondVersion\obj\Debug\SecondVersion.csproj.GenerateResource.cache
+C:\Users\shikn\Desktop\SecondVersion\obj\Debug\SecondVersion.Properties.Resources.resources
+C:\Users\shikn\Desktop\SecondVersion\obj\Debug\SecondVersion.csproj.CoreCompileInputs.cache
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion\bin\Debug\SecondVersion.exe.config
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion\bin\Debug\SecondVersion.exe
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion\bin\Debug\SecondVersion.pdb
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion\obj\Debug\SecondVersion.csprojAssemblyReference.cache
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion\obj\Debug\SecondVersion.InformationForm.resources
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion\obj\Debug\SecondVersion.MainForm.resources
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion\obj\Debug\SecondVersion.Properties.Resources.resources
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion\obj\Debug\SecondVersion.csproj.GenerateResource.cache
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion\obj\Debug\SecondVersion.csproj.CoreCompileInputs.cache
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion\obj\Debug\SecondVersion.exe
+H:\Шик Наталия 3 курс\РПМ\Курсовая\SecondVersion\obj\Debug\SecondVersion.pdb
+C:\Users\shikn\Desktop\SecondVersion\bin\Debug\FrequencyAnalysis.exe.config
+C:\Users\shikn\Desktop\SecondVersion\bin\Debug\FrequencyAnalysis.exe
+C:\Users\shikn\Desktop\SecondVersion\bin\Debug\FrequencyAnalysis.pdb
+C:\Users\shikn\Desktop\SecondVersion\obj\Debug\FrequencyAnalysis.exe
+C:\Users\shikn\Desktop\SecondVersion\obj\Debug\FrequencyAnalysis.pdb
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\bin\Debug\FrequencyAnalysis.exe.config
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\bin\Debug\FrequencyAnalysis.exe
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\bin\Debug\FrequencyAnalysis.pdb
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\obj\Debug\SecondVersion.csprojAssemblyReference.cache
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\obj\Debug\SecondVersion.InformationForm.resources
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\obj\Debug\SecondVersion.MainForm.resources
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\obj\Debug\SecondVersion.Properties.Resources.resources
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\obj\Debug\SecondVersion.csproj.GenerateResource.cache
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\obj\Debug\SecondVersion.csproj.CoreCompileInputs.cache
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\obj\Debug\FrequencyAnalysis.exe
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\obj\Debug\FrequencyAnalysis.pdb
+H:\329191_25\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\bin\Debug\FrequencyAnalysis.exe.config
+H:\329191_25\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\bin\Debug\FrequencyAnalysis.exe
+H:\329191_25\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\bin\Debug\FrequencyAnalysis.pdb
+H:\329191_25\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\obj\Debug\SecondVersion.csprojAssemblyReference.cache
+H:\329191_25\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\obj\Debug\SecondVersion.InformationForm.resources
+H:\329191_25\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\obj\Debug\SecondVersion.MainForm.resources
+H:\329191_25\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\obj\Debug\SecondVersion.Properties.Resources.resources
+H:\329191_25\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\obj\Debug\SecondVersion.csproj.GenerateResource.cache
+H:\329191_25\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\obj\Debug\SecondVersion.csproj.CoreCompileInputs.cache
+H:\329191_25\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\obj\Debug\FrequencyAnalysis.exe
+H:\329191_25\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\SecondVersion\obj\Debug\FrequencyAnalysis.pdb
+D:\B\РПМ\SecondVersion\bin\Debug\FrequencyAnalysis.exe.config
+D:\B\РПМ\SecondVersion\bin\Debug\FrequencyAnalysis.exe
+D:\B\РПМ\SecondVersion\bin\Debug\FrequencyAnalysis.pdb
+D:\B\РПМ\SecondVersion\obj\Debug\SecondVersion.csprojAssemblyReference.cache
+D:\B\РПМ\SecondVersion\obj\Debug\SecondVersion.InformationForm.resources
+D:\B\РПМ\SecondVersion\obj\Debug\SecondVersion.MainForm.resources
+D:\B\РПМ\SecondVersion\obj\Debug\SecondVersion.Properties.Resources.resources
+D:\B\РПМ\SecondVersion\obj\Debug\SecondVersion.csproj.GenerateResource.cache
+D:\B\РПМ\SecondVersion\obj\Debug\SecondVersion.csproj.CoreCompileInputs.cache
+D:\B\РПМ\SecondVersion\obj\Debug\FrequencyAnalysis.exe
+D:\B\РПМ\SecondVersion\obj\Debug\FrequencyAnalysis.pdb
+C:\Users\shikn\source\repos\symbolic-text-analysis\bin\Debug\FrequencyAnalysis.exe.config
+C:\Users\shikn\source\repos\symbolic-text-analysis\bin\Debug\FrequencyAnalysis.exe
+C:\Users\shikn\source\repos\symbolic-text-analysis\bin\Debug\FrequencyAnalysis.pdb
+C:\Users\shikn\source\repos\symbolic-text-analysis\obj\Debug\SecondVersion.csproj.AssemblyReference.cache
+C:\Users\shikn\source\repos\symbolic-text-analysis\obj\Debug\SecondVersion.InformationForm.resources
+C:\Users\shikn\source\repos\symbolic-text-analysis\obj\Debug\SecondVersion.MainForm.resources
+C:\Users\shikn\source\repos\symbolic-text-analysis\obj\Debug\SecondVersion.Properties.Resources.resources
+C:\Users\shikn\source\repos\symbolic-text-analysis\obj\Debug\SecondVersion.csproj.GenerateResource.cache
+C:\Users\shikn\source\repos\symbolic-text-analysis\obj\Debug\SecondVersion.csproj.CoreCompileInputs.cache
+C:\Users\shikn\source\repos\symbolic-text-analysis\obj\Debug\FrequencyAnalysis.exe
+C:\Users\shikn\source\repos\symbolic-text-analysis\obj\Debug\FrequencyAnalysis.pdb
